@@ -14,7 +14,7 @@ Include javascript tags at the end of the document body
 <body>
     ...
     ...
-    <script src="https://rawgit.com/phonbopit/mourning-css/master/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/phonbopit/mourning-css@master/main.js"></script>
 </body>
 </html>
 ```
